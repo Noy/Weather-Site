@@ -14,4 +14,6 @@ Getting a real API is much better and recommended. Again, it's just a little dem
 
 Enjoy!
 
+P.s. It actually uses the same thing as my "Weather App" made with swift, just incase you want to check it out.
+
 [See for yourself!](https://noyh.github.io/Weather-Site)
