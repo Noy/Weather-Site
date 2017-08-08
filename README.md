@@ -16,4 +16,4 @@ Enjoy!
 
 P.s. It actually uses the same thing as my "Weather App" made with swift, just incase you want to check it out.
 
-[See for yourself!](https://noys.site/weather)
+[See for yourself!](https://noy.sh/weather)
